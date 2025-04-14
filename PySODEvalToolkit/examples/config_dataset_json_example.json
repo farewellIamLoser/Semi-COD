@@ -1,0 +1,23 @@
+{
+  "CAMO": {
+    "mask": {
+      "path": "E:/Mr.Wu/dataset/CodDataset/TestDataset/CAMO/GT",
+      "prefix": "",
+      "suffx": ".png"
+    }
+  },
+  "CHAMELEON": {
+    "mask": {
+      "path": "E:/Mr.Wu/dataset/CodDataset/TestDataset/CHAMELEON/GT",
+      "prefix": "",
+      "suffx": ".png"
+    }
+  },
+  "COD10K": {
+    "mask": {
+      "path": "E:/Mr.Wu/dataset/CodDataset/TestDataset/COD10K/GT",
+      "prefix": "",
+      "suffx": ".png"
+    }
+  }
+}

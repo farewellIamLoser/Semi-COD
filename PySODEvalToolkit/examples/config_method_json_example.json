@@ -1,0 +1,19 @@
+{
+    "Method1": {
+        "CAMO": {
+            "path": "E:\\Mr.Wu\\codes\\Weakly-Supervised-Camouflaged-Object-Detection-with-Scribble-Annotations-main\\map\\trained\\CAMO",
+            "prefix": "",
+            "suffx": ".png"
+        },
+        "CHAMELEON": {
+            "path": "E:\\Mr.Wu\\codes\\Weakly-Supervised-Camouflaged-Object-Detection-with-Scribble-Annotations-main\\map\\trained\\CHAMELEON",
+            "prefix": "",
+            "suffx": ".png"
+        },
+        "COD10K": {
+            "path": "E:\\Mr.Wu\\codes\\Weakly-Supervised-Camouflaged-Object-Detection-with-Scribble-Annotations-main\\map\\trained\\COD10K",
+            "prefix": "",
+            "suffx": ".png"
+        }
+    }
+}
