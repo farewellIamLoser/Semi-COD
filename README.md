@@ -1,4 +1,4 @@
-# amoMamba: Spatial Separable Mamba for Semi-Supervised Camouflaged Object Detection
+# CamoMamba: Spatial Separable Mamba for Semi-Supervised Camouflaged Object Detection
 
 
 ## Dataset
