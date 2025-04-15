@@ -1,9 +1,5 @@
-# Weakly-Supervised Camouflaged Object Detection with Scribble Annotations (AAAI23, ORAL)
-> Authors: Ruozhen He*, Qihua Dong*, Jiaying Lin, and Rynson Lau (* joint first authors)
+# amoMamba: Spatial Separable Mamba for Semi-Supervised Camouflaged Object Detection
 
-Paper Link: [arxiv](https://arxiv.org/abs/2207.14083)
-
-![CRNet](./Image/CRNet.jpg)
 
 ## Dataset
 - We relabeled 4,040 images (3,040 from COD10K, 1,000 from CAMO) with scribbles and proposed the **S-COD dataset** [(Download)](https://drive.google.com/file/d/1u7PRtZDu2vXCRe0o2SplVYa7ESoZQFR-/view?usp=sharing) for training. In our annotations, "1" stands for foregrounds, "2" for backgrounds, and "0" for unlabeled regions.
@@ -12,7 +8,7 @@ Paper Link: [arxiv](https://arxiv.org/abs/2207.14083)
 
 
 ## Experimental Results
-- We provide CRNet [testing maps](https://drive.google.com/file/d/1UmoNMWv0JnjK2oFZkSjicCeYQXO2tj6Y/view?usp=sharing) and [training weights](https://drive.google.com/file/d/1YrtwLNAbXkk162YOwweS9-QwTzovG7xI/view?usp=sharing) presented in the papers.
+- 
 
 
 ![Evaluation](./Image/EvalTable.png)
@@ -20,7 +16,6 @@ Paper Link: [arxiv](https://arxiv.org/abs/2207.14083)
 ## Code
 ### Requirements
 ```shell
-git clone --recurse-submodules https://github.com/dddraxxx/Weakly-Supervised-Camouflaged-Object-Detection-with-Scribble-Annotations.git
 pip install -r requirements.txt
 ```
 
